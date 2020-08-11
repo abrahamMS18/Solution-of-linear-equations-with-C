@@ -6,7 +6,7 @@ my code is similar, but had a lot of explanation and maybe you can understand wh
 
 You are free to change it.
 
-The only thing that I can ask you if, If you realize a change in the code, notice, what change you do. 
+The only thing that I can ask you is, If you realize a change in the code, notice, what change you do. 
 
 Hope this code is usefull for you. 
 
