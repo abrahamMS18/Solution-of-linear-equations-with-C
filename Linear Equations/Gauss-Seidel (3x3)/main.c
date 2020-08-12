@@ -12,7 +12,7 @@ void ordenar();
 int checar_diagonal();
 int checar_ladoDerecho();
 int checar_renglones();
-int checar
+int checar();
 
 float mat[ren][col];
 int i, j;
